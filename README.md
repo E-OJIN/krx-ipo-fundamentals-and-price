@@ -1,6 +1,3 @@
-# krx-ipo-fundamentals-and-price
-Analyzing the correlation between KRX IPO fundamentals and stock performance and detect valuation anomalies.
-
 # KRX IPO Fundamentals and Price Analysis
 # KRX 신규 상장주 재무제표 및 주가 상관관계 분석
 
@@ -8,7 +5,7 @@ Analyzing the correlation between KRX IPO fundamentals and stock performance and
 
 ## Project Overview / 프로젝트 개요
 - Analyzing the correlation between KRX IPO fundamentals (operating profit margin, debt-to-equity) and post-listing stock performance from 2021 to 2025, and detecting valuation anomalies.
-- 2021 ~ 2025년 KRX 신규 상장 기업의 재무 건전성 (영업이익률, 부채비율) 과 상장일 주가 성과의 상관관계를 분석하고, 이상 (고평가,저평가) 공모주를 탐지
+- 2021 ~ 2025년 KRX 신규 상장 기업의 재무 건전성 (영업이익률, 부채비율) 과 상장일 주가 성과의 상관관계를 분석하고, 이상 (고평가, 저평가) 공모주를 탐지
 
 
 ## Hypothesis / 가설
