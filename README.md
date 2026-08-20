@@ -1,7 +1,6 @@
 # KRX IPO Fundamentals and Price Analysis
 > *KRX 신규 상장주 재무제표 및 주가 상관관계 분석*
 
----
 
 ## Project Overview / 프로젝트 개요
 - Analyzing the correlation between KRX IPO fundamentals (operating profit margin, debt-to-equity) and post-listing stock performance from 2021 to 2025, and detecting valuation anomalies.
@@ -12,7 +11,6 @@
 - Companies with higher operating profit margins and lower debt-to-equity ratios compared to their industry average prior to listing tend to show higher stock returns relative to the IPO price. 
 - 상장 직전 사업연도 영업이익률이 업종 평균 대비 높고 부채비율이 낮은 기업일수록 상장일 고가 기준 공모가 대비 수익률이 높은 경향이 있다.
 
----
 
 ## Tech Stack & Data Sources / 사용 기술 및 데이터
 - **Language** : Python
