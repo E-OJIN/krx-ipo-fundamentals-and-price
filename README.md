@@ -1,5 +1,5 @@
 # KRX IPO Fundamentals and Price Analysis
-# KRX 신규 상장주 재무제표 및 주가 상관관계 분석
+> *KRX 신규 상장주 재무제표 및 주가 상관관계 분석*
 
 ---
 
