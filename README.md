@@ -8,13 +8,13 @@
 
 
 ## Hypothesis / 가설
-- Companies with higher operating profit margins and lower debt-to-equity ratios compared to their industry average prior to listing tend to show higher stock returns relative to the IPO price. 
-- 상장 직전 사업연도 영업이익률이 업종 평균 대비 높고 부채비율이 낮은 기업일수록 상장일 고가 기준 공모가 대비 수익률이 높은 경향이 있다.
+- Companies with higher operating profit margins and lower debt-to-equity ratios compared to their industry average prior to listing tend to show higher stock returns relative to the IPO price. The strength of these relationships is expected to vary depending on market conditions, such as bull and bear markets.
+- 상장 직전 사업연도 (업종 평균 대비) 영업이익률이 높고 부채비율이 낮은 기업일수록 상장일 고가 기준 공모가 대비 수익률이 높은 경향이 있다. 이 관계의 강도는 시장 국면(강세장·약세장)에 따라 다르게 나타날 것이다.
 
 
 ## Tech Stack & Data Sources / 사용 기술 및 데이터
 - **Language** : Python
-- **Libraries** : pandas, requests, zipfile, io, time, scipy, matplotlib, seaborn
+- **Libraries** : pandas, requests, zipfile, io, time, FinanceDataReader, numpy, scipy, matplotlib, seaborn
 - **Data Sources / 데이터 출처** :
   - **KRX Data Market Place** : IPO lists between 2021-2025 신규상장종목
   - **DART API** : Financial statements 재무제표
